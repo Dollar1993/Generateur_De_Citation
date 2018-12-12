@@ -1,3 +1,6 @@
+# Mini projet de générateur de citation realisé avec ReactJS(create-react-app)
+## Voici ci-dessous bien documenté l'API tel que documenté pour une utilisation plus facile
+#### Il faut savoir que dans ce mini projet on utilise que du JS et du JSX
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
